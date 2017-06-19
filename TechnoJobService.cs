@@ -19,10 +19,12 @@ namespace TechnoJobService
 
         protected override void OnStart(string[] args)
         {
+            eventLog1.WriteEntry("Service TechnoJobsService Starting");
         }
 
         protected override void OnStop()
         {
+            eventLog1.WriteEntry("Service TechnoJobsService Stopping");
         }
     }
 }
