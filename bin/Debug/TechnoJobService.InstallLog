@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Tutorials\Lessons\TechnoJobServiceSolution\TechnoJobService\bin\Debug\TechnoJobService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Tutorials\Lessons\TechnoJobServiceSolution\TechnoJobService\bin\Debug\TechnoJobService.InstallLog
+   assemblypath = C:\Tutorials\Lessons\TechnoJobServiceSolution\TechnoJobService\bin\Debug\TechnoJobService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Tutorials\Lessons\TechnoJobServiceSolution\TechnoJobService\bin\Debug\TechnoJobService.exe assembly.
+Committing assembly 'C:\Tutorials\Lessons\TechnoJobServiceSolution\TechnoJobService\bin\Debug\TechnoJobService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Tutorials\Lessons\TechnoJobServiceSolution\TechnoJobService\bin\Debug\TechnoJobService.InstallLog
+   assemblypath = C:\Tutorials\Lessons\TechnoJobServiceSolution\TechnoJobService\bin\Debug\TechnoJobService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Tutorials\Lessons\TechnoJobServiceSolution\TechnoJobService\bin\Debug\TechnoJobService.exe assembly.
+Remove InstallState file because there are no installers.

@@ -26,5 +26,22 @@ namespace TechnoJobService
         {
             eventLog1.WriteEntry("Service TechnoJobsService Stopping ");
         }
+
+        protected override void OnContinue()
+        {
+            eventLog1.WriteEntry("Service TechnoJobsService in OnContinue ");
+        }
+
+        
+        protected override void OnPause()
+        {
+            eventLog1.WriteEntry("Service TechnoJobsService - OnPause ");
+        }
+
+        protected override void OnShutdown()
+        {
+            eventLog1.WriteEntry("Service TechnoJobsService Shutting Down ");
+        }
+
     }
 }
