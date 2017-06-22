@@ -6,3 +6,4 @@ c:\Tutorials\Lessons\TechnoJobServiceSolution\TechnoJobService\obj\Debug\TechnoJ
 c:\Tutorials\Lessons\TechnoJobServiceSolution\TechnoJobService\obj\Debug\TechnoJobService.csproj.GenerateResource.Cache
 c:\Tutorials\Lessons\TechnoJobServiceSolution\TechnoJobService\obj\Debug\TechnoJobService.exe
 c:\Tutorials\Lessons\TechnoJobServiceSolution\TechnoJobService\obj\Debug\TechnoJobService.pdb
+c:\Tutorials\Lessons\TechnoJobServiceSolution\TechnoJobService\obj\Debug\TechnoJobService.ProjectInstaller.resources

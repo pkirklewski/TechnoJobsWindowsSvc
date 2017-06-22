@@ -28,26 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.eventLog1 = new System.Diagnostics.EventLog();
-            ((System.ComponentModel.ISupportInitialize)(this.eventLog1)).BeginInit();
-
-            //===========================================================================================================
-
-            if (!System.Diagnostics.EventLog.SourceExists("MySource"))
-            {
-                System.Diagnostics.EventLog.CreateEventSource("MySource", "MyNewLog");
-            }
-
-            eventLog1.Source = "MySource";
-            eventLog1.Log = "MyNewLog";
-
-            //===========================================================================================================
-            
             // 
             // TechnoJobService
             // 
-            this.ServiceName = "TechnoJobService";
-            ((System.ComponentModel.ISupportInitialize)(this.eventLog1)).EndInit();
+            this.ServiceName = "TechnoJobsService";
 
         }
 
